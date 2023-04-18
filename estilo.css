@@ -1,0 +1,89 @@
+body{
+    background-image: url(https://i.pinimg.com/564x/d2/2e/f1/d22ef16010da772dea86641000ac1de9.jpg);
+ }
+ body {cursor: url(http://www.rw-designer.com/cursor-extern.php?id=166636);}
+ .menu{
+     display: flex;
+     justify-content: space-between;
+ }
+ .logo{
+     display: flex;
+     justify-content: flex-start;
+     padding: 20px;
+     align-items: flex-start;
+ }
+ .logo img{
+     border-radius: 50%;
+     border: 5px solid black;
+ }
+ .site{
+     display: flex;
+     justify-content: flex-end;
+     padding: 40px;
+     list-style-type: none;
+ }
+ ul{
+     display: flex;
+     list-style-type: none;
+     list-style: none;
+     gap: 70px;
+ }
+ a{
+     color: white;
+ }
+ a:hover{
+     color: rgb(208, 158, 255);
+ }
+ .tittle{
+     display: flex;
+     justify-content: center;
+     color: plum;
+     padding: 30px;
+ }
+ .sobre{
+     display: flex;
+     justify-content: center;
+     color: white;
+     padding: 30px;
+ }
+ .friend{
+     display: flex;
+     justify-content: center;
+     border: 5px solid purple;
+ }
+ .part{
+     display: flex;
+     justify-content: center;
+     gap: 20px;
+     border: 10px solid plum;
+     background-color: plum;
+     border-radius: 10%;
+ }
+ .part img{
+     border-radius: 30%;
+ }
+ .play{
+     display: flex;
+     justify-content: center;
+     color: white;
+ }
+ .video{
+     display: flex;
+     justify-content: center;
+ }
+ .about{
+     display: flex;
+     justify-content: center;
+     color: white;
+ }
+ 
+ .steam {
+     display: flex;
+     justify-content: center;
+     border-radius: 0%;
+     align-items: center;
+     border-radius: 40%;
+     justify-content: center;
+     color: plum;
+ }
+ 
